@@ -1,0 +1,156 @@
+body{
+    margin: 0 auto;
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+}
+
+h1, h4 {
+    text-align: center;
+    color: #fff !important;
+    font-size: 30px;
+    position: relative;
+    top: 10px;
+}
+
+#wrap{
+    margin: 0 auto;
+    padding: 0 15% 0 15%;
+    }
+
+#nav{
+    background-color: darkgrey;
+    height: 35px;
+    
+}
+#nav ul li{
+   color: white;
+    list-style: none;
+    float: left;
+} 
+#nav ul a{
+    font-size: 20px;
+    padding-left: 12px;
+    padding-top: 5px;
+    color: white;
+    position: relative;
+    right: 30px;
+    top: 5px;
+}
+a{
+    text-decoration: none;
+}
+    
+#container {
+    
+    background-color: white;
+    height: 1250px;
+}
+
+.carousel{
+    position: relative;
+    width: 700px;
+    height: 200px;
+    padding: 15px;
+    float:left;
+    clear: both;
+
+}
+
+#square-content {
+    display:inline-block ; 
+    float: right;
+    width: 27%;
+    
+}
+.line {
+    background-color:grey;
+    width: 120;
+    position: relative;
+    bottom: 10px;
+}
+
+#square-top{
+    
+    border: solid 1px grey;
+    position: relative;
+    top: 15px;
+    display:inline-block ; 
+    
+    padding: 0 15px 0 15px;
+}
+#square-top h3 {
+    
+    text-align: center;
+    
+}
+
+#media {
+    
+    position: relative;
+    bottom: 10px;
+}
+
+#media2 {
+    
+    position: relative;
+    bottom: 20px;
+   
+}
+
+#square-botton {
+     border: solid 1px grey;
+     display:inline-block ; 
+    position: relative;
+    top: 50px;
+    padding: 0 10px 0 10px;
+}
+#paragraph {
+    
+    position: relative;
+    bottom:17px;
+}
+
+#buttom {
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+    background-color: peru;
+    
+}
+
+#text {
+    
+    position: relative;
+    top:330px;
+    padding: 0 15px 15px 15px;
+    width: 70%;
+}
+
+.media {
+    position: relative;
+    
+}
+
+
+
+/* de la otra web   
+#uno {
+    float: left;
+  margin-left: 40%;ß
+}
+#dos {
+    float: left;
+   margin-left: 50px;
+    
+}
+#tres {
+    float: left;
+    margin-left: 50px;
+}
+
+#cuatro {
+    float: left;
+    margin-left: 50px;
+}
+
+*/
